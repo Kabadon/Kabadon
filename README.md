@@ -1,6 +1,12 @@
+<h1 align="center">Hi!</h1>
+<img src="https://github.com/Kabadon/Kabadon/blob/main/pics/tsuki_profile.gif" alt="Tsuki Odyssey gif" align="right" style="width: 70%;"> 
+<div align="left">  
+  <b>I'm..</b>
+  <pre>
+    <p>+ up for new projects</p>
+    <p>+ still a newbie (needs help)</p>
+    <p>+ a chill person, !won't eat you</p>
+    <p>+ coding</p>
+  </pre>
+</div>
 
-
-<!---
-Kabadon/Kabadon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
