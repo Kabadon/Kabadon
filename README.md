@@ -12,7 +12,7 @@
   <img src="https://github.com/Kabadon/Kabadon/blob/main/pics/tsuki_profile.gif" alt="Tsuki Odyssey gif" align="right" style="width: 20%;">
   <p align="left">🌸  up for projects</p>
   <p align="left">🌸  open to great inputs</p>
-  <p align="left">🌸  a chill person, !won't eat you</p>
+  <p align="left">🌸  chill, !won't eat you</p>
   <p align="left">🌸  coding</p>
 </pre>
 
